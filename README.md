@@ -6,20 +6,16 @@ paper:
 
 ---
 
-<img src="figures/corpipe_architecture.svg" alt="CorPipe Architecture" align="right" style="width: 50%">
+<img src="figures/corpipe_architecture.svg" alt="CorPipe Architecture" align="right" style="width: 55%">
 
-<h3 align="center">ÚFAL CorPipe at CRAC 2022: Effectivity of Multilingual Models for Coreference Resolution</h3>
-
-<p align="center">
-  <i><b>Milan Straka</b></i> and <i><b>Jana Straková</b></i>
-</p>
+<h3 align="center"><a href="TODO">ÚFAL CorPipe at CRAC 2022: Effectivity of Multilingual Models for Coreference Resolution</a></h3>
 
 <p align="center">
-  <i>
-    Charles University<br>
-    Faculty of Mathematics and Physics<br>
-    Institute of Formal and Applied Linguistics
-  </i>
+  <b>Milan Straka</b> and <b>Jana Straková</b><br>
+  Charles University<br>
+  Faculty of Mathematics and Physics<br>
+  Institute of Formal and Applied Lingustics<br>
+  Malostranské nám. 25, Prague, Czech Republic
 </p>
 
 **Abstract:** ÚFAL CorPipe is a winning submission to the CRAC 2022 Shared Task
@@ -31,13 +27,7 @@ pretrained models. The center of this contribution are fine-tuned multilingual
 models. We found one large multilingual model with sufficiently large encoder to
 increase performance on all datasets across the board, with the benefit not
 limited only to the underrepresented languages or groups of typologically
-relative languages.
-
-<p align="center">
-  <a href="https://arxiv.org/abs/TODO"><b>Paper</b></a><br>
-</p>
-
-<br clear="both">
+relative languages.<br clear="both">
 
 ---
 
