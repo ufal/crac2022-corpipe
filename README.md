@@ -8,7 +8,7 @@ paper:
 
 <img src="figures/corpipe_architecture.svg" alt="CorPipe Architecture" align="right" style="width: 55%">
 
-<h3 align="center"><a href="https://arxiv.org/abs/2209.07278">ÚFAL CorPipe at CRAC 2022: Effectivity of Multilingual Models for Coreference Resolution</a></h3>
+<h3 align="center"><a href="https://aclanthology.org/2022.crac-mcr.4/">ÚFAL CorPipe at CRAC 2022: Effectivity of Multilingual Models for Coreference Resolution</a></h3>
 
 <p align="center">
   <b>Milan Straka</b> and <b>Jana Straková</b><br>
